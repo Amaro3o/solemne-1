@@ -30,5 +30,7 @@ lo que mas me costo fue escalar el tamaño de mi dibujo original al lienzo digit
 * strokeCap(SQUARE); //define forma de la linea o borde
 
 ## resultado final  
- [p5js proyecto](https://editor.p5js.org/Amaro3o/full/YLePjXpEK)
+ [p5js proyecto](https://editor.p5js.org/Amaro3o/full/YLePjXpEK)  
+ [p5js proyecto editable](https://editor.p5js.org/Amaro3o/sketches/YLePjXpEK)  
+ 
   
