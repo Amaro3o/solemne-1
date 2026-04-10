@@ -28,4 +28,7 @@ lo que mas me costo fue escalar el tamaño de mi dibujo original al lienzo digit
 * rect(420, 220, 40, 60); //crea un rectangulo en x,y,ancho,alto
 * quad(20, 420, 160, 280, 220, 340, 80, 480); //crea un cuadrilatero en x1,y1,x2,y2,x3,y,x4,y4
 * strokeCap(SQUARE); //define forma de la linea o borde
+
+## resultado final  
+ [p5js proyecto](https://editor.p5js.org/Amaro3o/full/YLePjXpEK)
   
