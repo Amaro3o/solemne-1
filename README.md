@@ -1,6 +1,6 @@
 # solemne-1  
 ## proceso  
-para este trabajo utilize como referencia al artista vasili kandinsky  
+**para este trabajo utilize como referencia al artista vasili kandinsky**  
 ![referencia](https://cms.guggenheim-bilbao.eus/uploads/2012/05/2002-Kandinsky-en-su-contexto-1024x706.jpg)  
 tomé las figuras geometricas que estan presentes dentro de su obra para crear mi propia composición, agregando tambien colores azul, rosado, verde y rojo  
 
